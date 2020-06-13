@@ -16,10 +16,10 @@ https://andrewbanchich.gitlab.io/alpha-jekyll-theme/
 https://mmistakes.github.io/minimal-mistakes/
 
 Theme:
-!(jamstackthemes.dev)[https://jamstackthemes.dev/ssg/jekyll/]
-!(jekyllthemes.org)[http://jekyllthemes.org/]
-!(jekyllthemes.io)[https://jekyllthemes.io/]
-!(jekyll-themes.com)[https://jekyllthemes.io/]
+(jamstackthemes.dev)[https://jamstackthemes.dev/ssg/jekyll/]
+(jekyllthemes.org)[http://jekyllthemes.org/]
+(jekyllthemes.io)[https://jekyllthemes.io/]
+(jekyll-themes.com)[https://jekyllthemes.io/]
 
 
 
