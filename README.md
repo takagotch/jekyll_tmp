@@ -1,5 +1,10 @@
 ### jekyll_template 
 ---
+https://jekyllrb-ja.github.io/docs
+
+
+===
+
 Demo:
 https://github.com/hmfaysal/hmfaysal-omega-theme
 
@@ -15,7 +20,7 @@ https://andrewbanchich.gitlab.io/alpha-jekyll-theme/
 
 https://mmistakes.github.io/minimal-mistakes/
 
-Theme:
+#### Theme:
 [jamstackthemes.dev](https://jamstackthemes.dev/ssg/jekyll/)
 [jekyllthemes.org](http://jekyllthemes.org/)
 [jekyllthemes.io](https://jekyllthemes.io/)
