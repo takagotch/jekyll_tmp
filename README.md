@@ -3,7 +3,7 @@
 https://jekyllrb-ja.github.io/docs
 
 
-===
+---
 
 Demo:
 https://github.com/hmfaysal/hmfaysal-omega-theme
